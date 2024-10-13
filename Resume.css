@@ -1,0 +1,116 @@
+.head{
+    background-color: brown;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 10 px;
+    color: bisque;
+    height: 60px;
+    margin-top: 0px;
+}
+.head h1{
+    margin-top: 0px;
+    align-items: center;
+    text-align: center;
+}
+body{
+    width:60%;
+    margin-left: 300px;
+    border: 1px solid #000;
+   
+
+}
+.contact h3 ins{
+    color: brown;
+}
+.skills h3 ins{
+    color: brown;
+}
+.hobbies h3 ins{
+    color: brown;
+}
+.strengths h3 ins{
+    color: brown;
+}
+.personaldetails h3 ins{
+    color: brown;
+}
+.objective h3 ins{
+    color: brown;
+}
+.objective p{
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.objective h3{
+    margin-left: 60px;
+}
+.education h3 ins{
+    color: brown;
+}
+.education{
+    margin-top: 10px;
+    margin-left:0px
+}
+.workshop h3 ins{
+    color: brown;
+}
+.workshop{
+    margin-left:0px
+}
+.certificates h3 ins{
+    color: brown;
+
+}
+.certificates {
+    margin-left:0px
+
+}
+.projects h3 ins{
+    color: brown;
+}
+.projects{
+    
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.declaration h3 ins{
+    color: brown;
+}
+.declaration p{
+    margin-left: 60px;
+}
+.declaration h3{
+    margin-left: 60px;
+
+}
+.sign{
+    margin-left: 600px;
+}
+img{
+    height: 50px;
+}
+.left{
+    width:800px
+}
+.right{
+    width:1400px;
+
+}
+.content{
+    display:flex;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.left, .right {
+
+  display:inline;
+  padding: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+
+}
